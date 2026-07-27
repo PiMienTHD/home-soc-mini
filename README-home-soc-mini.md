@@ -76,4 +76,3 @@ Credencial objetivo: `msfadmin:msfadmin` (default documentada de Metasploitable2
 ## Autor
 
 Adrian — Estudiante de Ingeniería en Conectividad y Redes, Duoc UC
-[GitHub](https://github.com/PiMienTHD) · [Credly](https://www.credly.com/users/PiMienTHD)
